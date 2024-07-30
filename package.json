@@ -1,0 +1,22 @@
+{
+  "name": "reelsdataget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "config": "^3.3.6",
+    "csv-writer": "^1.6.0",
+    "googleapis": "^83.0.0",
+    "moment": "^2.29.1",
+    "npm": "^7.20.2",
+    "post-chatwork-message": "^1.0.1",
+    "puppeteer": "^10.1.0",
+    "readline": "^1.3.0"
+  }
+}
